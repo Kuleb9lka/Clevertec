@@ -355,6 +355,3 @@ ASALocalRun/
 
 .config
 .db
-
-mockServiceWorker.js
-/.idea/
